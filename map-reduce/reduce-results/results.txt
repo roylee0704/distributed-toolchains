@@ -1,2 +1,4 @@
 over_10_seconds 17
 under_10_seconds 3
+over_10_seconds 17
+under_10_seconds 3

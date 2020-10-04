@@ -10,7 +10,7 @@ shuffle:
 	HOST=host1,host2 node shuffle
 
 reduce:
-    node 
+	node reduce
 
 clean: 
 	@rm ./host1/*.txt 2> /dev/null || true
